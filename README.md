@@ -22,10 +22,19 @@ A simple travel website created using HTML5 to showcase travel-related informati
 - `Add.html` - Address page
 - `Contact.html` - Contact Us page
 
-## Screenshot
+## Screenshots
 
-![Prasthanam Travel Website](prasthanam_home.png)
+### Home Page
+![Prasthanam Home Page](home.png)
 
+### About Us
+![Prasthanam About Us](about.png)
+
+### Address
+![Prasthanam Address](address.png)
+
+### Contact Us
+![Prasthanam Contact Us](contact.png)
 ## Note
 
 This project was created as an HTML practice project to learn webpage structure, navigation, images, and basic HTML elements.
